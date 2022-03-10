@@ -1,2 +1,2 @@
-# food-ordering-api
-This is a food ordering app's CRUD API
+# food_ordering_app
+An e-commerce CRUD API for  African food
