@@ -25,10 +25,10 @@ access to information one can get from heroku, unless access is given to a super
 Below are some endpoints to be used with postman or heroku with admin or super user access:
 
 POSTMAN:
-/api/meals
-/api/users
-/api/orders
-/api/carts
+/api/meals,
+/api/users,
+/api/orders,
+/api/carts,
 /api/users/stats  - This gives statistics of all users within one year range
 
 HEROKU
