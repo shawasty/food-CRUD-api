@@ -59,7 +59,9 @@ const mealSchema = new Schema(
   },
   { timestamps: true }
 )
-ORDERS
+
+
+ORDERS SCHEMA
 const ordersSchema = new Schema(
   {
     userId: { type: String, required: true },
